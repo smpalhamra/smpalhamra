@@ -1,0 +1,21 @@
+{
+  "school": "SMP Al Hamra",
+  "faqs": [
+    {
+      "question": "Kapan SMP Al Hamra didirikan?",
+      "answer": "SMP Al Hamra didirikan pada tahun 2023."
+    },
+    {
+      "question": "Apa visi dari SMP Al Hamra?",
+      "answer": "Visi SMP Al Hamra adalah terciptanya generasi Penghafal Al-Qur'an yang berakhlak mulia, berprestasi, dan berpengetahuan modern serta berwawasan kebangsaan."
+    },
+    {
+      "question": "Apa program unggulan di SMP Al Hamra?",
+      "answer": "Program unggulan SMP Al Hamra meliputi Tahfidzul Qur'an, Bilingual (Bahasa Arab dan Inggris), Seni dan Olahraga, serta Sains."
+    },
+    {
+      "question": "Apakah siswa wajib tinggal di pondok?",
+      "answer": "Ya, siswa dan siswi SMP Al Hamra diwajibkan tinggal di pondok pesantren."
+    }
+  ]
+}
