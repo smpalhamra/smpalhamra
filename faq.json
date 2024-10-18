@@ -1,9 +1,12 @@
 {
-    "faqs": [
-      {
-        "question": "Siapa kepala SMP AL Hamra?",
-        "answer": "Ahmad Roziqin, S.Pd."
-      }
-      // Tambahkan FAQ lainnya sesuai kebutuhan
-    ]
-  }
+  "faqs": [
+    {
+      "question": "Apa itu SMP Al Hamra?",
+      "answer": "SMP Al Hamra adalah sekolah menengah pertama yang berfokus pada pendidikan Al-Qur'an dan keterampilan modern."
+    },
+    {
+      "question": "Bagaimana cara mendaftar?",
+      "answer": "Anda dapat mendaftar secara online melalui website kami."
+    }
+  ]
+}
